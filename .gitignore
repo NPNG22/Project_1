@@ -5,5 +5,5 @@ public.key
 # Ignore signature file
 Signature.bin
 
-# Ignore a specific PDF file (replace 'file.pdf' with the actual filename)
+# Ignore the pdf file
 *.pdf
